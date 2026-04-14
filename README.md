@@ -68,8 +68,15 @@ It is a beginner-friendly machine learning project demonstrating data preprocess
 ## 📷 Output Screenshots
 Include the following images in your repository:
 - Survival Count Graph
+<img width="640" height="480" alt="survival_count" src="https://github.com/user-attachments/assets/c31edb05-e9c9-4370-9ee1-97e6fa9c7702" />
+
 - Survival by Gender Graph
+ <img width="640" height="480" alt="survival_by_gender" src="https://github.com/user-attachments/assets/7180aa5c-d776-450f-9442-f7fa52ee807a" />
+
 - Age Distribution
+<img width="640" height="480" alt="age_distribution" src="https://github.com/user-attachments/assets/13de27d3-2a33-4d8f-8ecc-40d4bbc16937" />
+
 - Confusion Matrix
+<img width="640" height="480" alt="confusion_matrix" src="https://github.com/user-attachments/assets/f26538a7-bc9c-4d7b-b5c8-2df3d9fc3c64" />
 
 ---
