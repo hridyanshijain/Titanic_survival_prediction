@@ -80,3 +80,5 @@ Include the following images in your repository:
 <img width="640" height="480" alt="confusion_matrix" src="https://github.com/user-attachments/assets/f26538a7-bc9c-4d7b-b5c8-2df3d9fc3c64" />
 
 ---
+## project report 
+[Devtown project report.pdf](https://github.com/user-attachments/files/26758288/Devtown.project.report.pdf)
